@@ -1,5 +1,7 @@
 # PongPygame
-Pygame Power-Up Pong is an exciting twist on the classic Pong game, developed for Computation III. This game features object-oriented programming and incorporates various power-ups to make gameplay even more thrilling. The objective is to be the first player to reach 10 points.
+Pygame Power-Up Pong is an exciting twist on the classic Pong game, developed for Computation III.
+
+This game features object-oriented programming and incorporates various power-ups to make gameplay even more thrilling. The objective is to be the first player to reach 10 points.
 
 ![pong](https://github.com/Rubenr02/PongPygame/assets/105732827/8064b17b-521c-4881-9961-f0b6fc2eebfb)
 
